@@ -51,7 +51,7 @@ def mix_documents(doc1: str, doc2: str) -> str:
 
     return ''.join(mixed_doc)
 
-data = mix_documents(data_shakespeare * 40, data_hhs)
+data = mix_documents(data_shakespeare, data_hhs[:len(data_shakespeare)])
 
 print(f"length of dataset in characters: {len(data):,}")
 
