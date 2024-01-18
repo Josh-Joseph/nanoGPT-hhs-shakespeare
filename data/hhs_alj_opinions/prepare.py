@@ -14,6 +14,10 @@ with open(input_file_path, 'r') as f:
     data = f.read()
 print(f"length of dataset in characters: {len(data):,}")
 
+max_chars = 1115394  # length of the shakespeare dataset
+data = data[:max_chars]
+print(f"Trimmed the dataset to {len(data)}")
+
 # get all the unique characters that occur in this text
 chars = sorted(list(set(data)))
 vocab_size = len(chars)
