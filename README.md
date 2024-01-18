@@ -1,4 +1,4 @@
-This repo is a fork of https://github.com/karpathy/nanoGPT to use (with minor modifications) for the [Spring 2024 Case Studies in Public and Private Policy Challenges of Artificial Intelligence Harvard Law School class](https://hls.harvard.edu/courses/case-studies-in-public-and-private-policy-challenges-of-artificial-intelligence/).
+This repo is a fork of https://github.com/karpathy/nanoGPT to use (with minor modifications) for a [Spring 2024 Case Studies in Public and Private Policy Challenges of Artificial Intelligence](https://hls.harvard.edu/courses/case-studies-in-public-and-private-policy-challenges-of-artificial-intelligence/) Harvard Law School course lecture.
 
 # nanoGPT
 
